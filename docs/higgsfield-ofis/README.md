@@ -3,7 +3,7 @@
 2D bir canvas sahnesinden (tek önden robot PNG'leri, boyalı bina PNG'leri) içine girilebilen
 bir 3B Three.js oyununa geçişin belgeleri: prompt, adım adım kayıt, kaynakça.
 
-Video: `VIDEO_LINK`
+Video: https://youtu.be/8u9pRn24QIQ
 
 ## Bu klasörde ne var
 
